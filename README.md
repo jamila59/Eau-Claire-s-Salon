@@ -1,4 +1,4 @@
-# Hair Salon
+# Eau Claire's Salon
 
 #### _A C# web application which uses ASP.Net Core MVC Web Application and Entity to create databases.  - 01/17/20_
 
