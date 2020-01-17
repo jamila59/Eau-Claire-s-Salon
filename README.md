@@ -1,18 +1,18 @@
-# Vendor and Order Tracker
+# Hair Salon
 
-
-#### _A C# web application which uses ASP.Net Core MVC Web Application and objects within objects.  - 12/20/19_
+#### _A C# web application which uses ASP.Net Core MVC Web Application and Entity to create databases.  - 01/17/20_
 
 #### _By **Jamila Aliyeva**_
 
 ## Description
 
-A C# program where the user is given the option to view all vendors or to add new vendors. When the user selects the "Add a new Vendor" option he or she is directed to a form where they are asked to enter a vendor name. After, they are directed to another page which allows the user to select their vendor. Once the user has clicked on their vendor, the user displayed another form for filling out order descriptions. Once submitted, he or she is redirected to a page where they are able to click on orders and be directed to a separate page which displays both vendor and order details.
+A C# program where the user is given the option to view  hair stylists and and thier clients. When the user selects the "Add a new Stylist" option he or she is directed to a form where they are asked to enter a stylist name. After, they are directed to another page which allows the user to select the entered any stylist from the displyed list. Duing so will direct the user to a page that displays a many to one relationship between the stylist and thier clients.
+
 ## Setup/Installation Requirements
 
 1. Open command line and clone this repository to Desktop:
     ```
-    $ git clone https://github.com/Jamila59/Order.Solution.git
+    $ git clone https://github.com/Jamila59/Hair-Salon.git
     ```
 2. In command line:
     ```
@@ -23,7 +23,7 @@ A C# program where the user is given the option to view all vendors or to add ne
 * No known bugs at this time.
 
 ## Technologies Used
-* C# / .NET / ASP.Net Core MVC Web Application
+* C# / .NET / ASP.Net Core MVC Web Application /  Entity / My SQL Workbench
 
 ## Support and contact details
 
