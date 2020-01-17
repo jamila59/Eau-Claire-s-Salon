@@ -29,3 +29,11 @@
 /Users/Guest/Desktop/HairSalon.Solution/HairSalon/bin/Debug/netcoreapp2.2/HairSalon.Views.pdb
 /Users/Guest/Desktop/HairSalon.Solution/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.Views.pdb
 /Users/Guest/Desktop/HairSalon.Solution/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.csproj.CopyComplete
+/Users/Guest/Desktop/HairSalon.Solution2/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.csprojAssemblyReference.cache
+/Users/Guest/Desktop/HairSalon.Solution2/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/HairSalon.Solution2/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/HairSalon.Solution2/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/HairSalon.Solution2/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/HairSalon.Solution2/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.AssemblyInfo.cs
+/Users/Guest/Desktop/HairSalon.Solution2/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.dll
+/Users/Guest/Desktop/HairSalon.Solution2/HairSalon/obj/Debug/netcoreapp2.2/HairSalon.pdb
