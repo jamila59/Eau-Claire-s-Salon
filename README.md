@@ -14,7 +14,9 @@ A C# program where the user is given the option to view  hair stylists and and t
     ```
     $ git clone https://github.com/Jamila59/Hair-Salon.git
     ```
-2. In command line:
+2. Create stylist and client tables using SQL comment
+    ```
+3. In command line:
     ```
     $ dotnet restore 
     ```
