@@ -20,7 +20,7 @@ A C# program where the user is given the option to view  hair stylists and and t
     ```
     $ dotnet restore 
     ```
-    $ dotnet run
+    $ dotnet build
     ```
     $ dotnet run
     ```
